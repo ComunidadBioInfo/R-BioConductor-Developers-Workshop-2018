@@ -48,9 +48,7 @@ This workshop is part of a long-term project to create a community of developers
 | 15:00 - 15:45 | Open source software projects and collaborative development  | Selene Fernández |
 | 15:45 - 17:00 | Package documentation |  |
 | 17:00 -       | Welcome cocktail |      |
-
-| Day 2   |      |      |
-| -------------- | --------------------------------------- | ----------------------------- |
+| **Day 2**   |      |      |
 |9:00 - 10:00  | Keynote Lecture II | Martin Morgan |
 |10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      |  |
 |10:30 - 11:00 | Coffee break  |      |
