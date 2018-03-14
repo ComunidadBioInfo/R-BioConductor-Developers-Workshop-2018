@@ -1,5 +1,6 @@
 ## R/Bioconductor Developers WorkShop 2018
-### Aprende R y hagamos Comunidad / Develop with R and Do Community
+### Desarrolla en R y hagamos Comunidad / Develop with R and Do Community
+
 Cuernavaca, Mexico, July 30 - Aug 3, 2018
 
 In recent years, biology has seen a rise in the use of technologies that enable high-throughput, quantitative, data-rich profiling of cellular states. As a result, the field now faces  computational challenges to analyse such data. The R/Bioconductor project is an open source, open development software platform that provides tools to translate complex datasets into biological knowledge.
@@ -14,7 +15,8 @@ Helping to train bioinformatics instructors that can continue to grow in their l
 
 This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions.  
 
-Instructors:
+
+####Instructors:
 
 - Martin Morgan (Roswell Park Comprehensive Cancer Center, Buffalo, USA)
   
@@ -25,7 +27,7 @@ Instructors:
 - Selene Fernandez (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
 
 
-Organizing committee:
+####Organizing committee:
 
 - Heladia Salgado (Center for Genomic Sciences, Cuernavaca, Mexico)
   
