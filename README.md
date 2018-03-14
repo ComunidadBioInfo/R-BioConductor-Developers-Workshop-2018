@@ -1,5 +1,5 @@
 ## R/Bioconductor Developers WorkShop 2018
-### Desarrolla en R y hagamos Comunidad / Develop with R and Do Community
+### Develop with R and Do Community
 
 Cuernavaca, Mexico, July 30 - Aug 3, 2018
 
