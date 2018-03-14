@@ -48,7 +48,7 @@ This workshop is part of a long-term project to create a community of developers
 | 15:00 - 15:45 | Open source software projects and collaborative development  | Selene Fernández |
 | 15:45 - 17:00 | Package documentation |  |
 | 17:00 -       | Welcome cocktail |      |
-| **Day 2**   |      |      |
+| **Day 2** |      |      |
 |9:00 - 10:00  | Keynote Lecture II | Martin Morgan |
 |10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      |  |
 |10:30 - 11:00 | Coffee break  |      |
@@ -58,10 +58,7 @@ This workshop is part of a long-term project to create a community of developers
 |14:00 - 15:00 | Lunch break     |      |
 |15:00 - 17:00 | S4 - system for object oriented programing |  |
 |17:00 - 18:00 | Poster session |      |
-
-
-| Day 3   |      |      |
-| -------------- | --------------------------------------- | ----------------------------- |
+| **Day 3** |      |      |
 |9:00 - 10:00  |Keynote Lecture III | Heather Turner |
 |10:00 - 10:30 |Vignette writing with markdown/BiocStyle |  |
 |10:30 - 10:50 |Coffee break|      |
@@ -71,17 +68,12 @@ This workshop is part of a long-term project to create a community of developers
 |12:30 - 14:00 |Debugging and Parallelization|  |
 |14:00 - 15:00 |Lunch break|      |
 |15:00 - 17:00 |Working on a Collaborative Project|  |
-
-| Day 4   |      |      |
-| -------------- | --------------------------------------- | ----------------------------- |
+| **Day 4** |      |      |
 | 9:00 - 10:00  | Keynote Lecture IV | Benilton Carvalho |
 | 10:00 - 10:30 | Talk III: Example of Bioinformatics in Mexico && RLadies Community Experience | Teresa Ortíz |
 | 10:30 - 11:00 | Coffee break  |      |
 | 11:00 - 17:00 | Working on a Collaborative Project |  |
-
-
-| Day 5   |      |      |
-| -------------- | --------------------------------------- | ----------------------------- |
+| **Day 5** |      |      |
 | 9:00 - 10:00  | Working on a Collaborative Project |  |
 | 10:00 - 10:30 | Teams: Concluding remarks about the experience|  |
 | 10:30 - 11:00 | Coffee break  |      |
