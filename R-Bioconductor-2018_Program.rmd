@@ -7,13 +7,14 @@ output:
 --author: CDSB
 ---
 
-####Comunidad de Desarrolladores de Software en Bioinformática
+#### Comunidad de Desarrolladores de Software en Bioinformática
 
 
-  * Conference webpage: http://cdsb.org/BioCDevelopers2018
+  * Conference webpage: http://www.comunidadbioinfo.org/
   * Where: Centro de Ciencias Genómicas, Cuernavaca, México
   * When: Workshop July 30  - August 3, 2018
-  * On twitter: #
+  * On twitter: #CDSBMexico
+  * Facebook: @comunidadbioinfo
   * Public etherpad: https://public.etherpad-mozilla.org/p/20-07-30-CDSB-2018
   * On youtube: 
 
