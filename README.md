@@ -16,7 +16,7 @@ Helping to train bioinformatics instructors that can continue to grow in their l
 This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions.  
 
 
-####Instructors:
+#### Instructors:
 
 - Martin Morgan (Roswell Park Comprehensive Cancer Center, Buffalo, USA)
   
@@ -27,7 +27,7 @@ This workshop is part of a long-term project to create a community of developers
 - Selene Fernandez (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
 
 
-####Organizing committee:
+#### Organizing committee:
 
 - Heladia Salgado (Center for Genomic Sciences, Cuernavaca, Mexico)
   
