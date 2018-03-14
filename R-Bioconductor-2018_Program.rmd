@@ -36,7 +36,7 @@ This workshop is part of a long-term project to create a community of developers
 
 
 | Day 1   |      |      |
-| -------------- | --------------------------------------- | ----------------------------- |
+| ------------------ | --------------------------------------- | ----------------------------- |
 | 9:00 - 9:15   | Welcome  | Alejandra Medina |
 | 9:15 - 10:00  | Keynote Lecture I     | Alejandro Reyes     |
 | 10:00 - 10:30 | Talk I: Example of Bioinformatics in Mexico: ROpenSci CONABIO project | Alicia Mastretta Yanes|
