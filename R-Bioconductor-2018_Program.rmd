@@ -7,7 +7,7 @@ output:
 --author: CDSB
 ---
 
-#### Comunidad de Desarrolladores de Software en Bioinformática
+# Comunidad de Desarrolladores de Software en Bioinformática
 
 
   * Conference webpage: http://www.comunidadbioinfo.org/
