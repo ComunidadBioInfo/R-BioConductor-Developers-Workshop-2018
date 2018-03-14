@@ -1,0 +1,95 @@
+---
+title: "R/BioConductor Developers Workshop 2018"
+--date: 14/3/2018
+output:
+  html_document: default
+  word_document: default
+--author: CDSB
+---
+
+####Comunidad de Desarrolladores de Software en Bioinformática
+
+
+  * Conference webpage: http://cdsb.org/BioCDevelopers2018
+  * Where: Centro de Ciencias Genómicas, Cuernavaca, México
+  * When: Workshop July 30  - August 3, 2018
+  * On twitter: #
+  * Public etherpad: https://public.etherpad-mozilla.org/p/20-07-30-CDSB-2018
+  * On youtube: 
+
+
+## Introduction
+
+In recent years, biology has seen a rise in the use of technologies that enable high-throughput, quantitative, data-rich profiling of cellular states. As a result, the field now faces  computational challenges to analyse such data. The R/Bioconductor project is an open source, open development software platform that provides tools to translate complex datasets into biological knowledge.
+
+The workshop is aimed at students and researchers interested in the analysis of biological data. We encourage applications from experts in diverse disciplines, including but not limited to biologists, bioinformaticians, data scientists, software engineers and programmers. The main goals of the workshop are:
+
+1. Teaching participants the principles of reproducible data science through the development of R/Bioconductor packages. 
+2. Turning bioinformatic software users into bioinformatic software developers.
+3. Fostering the exchange of expertise and establishing multidisciplinary collaborations.
+4. Creating a community of Latin American scientists committed to the development of software and computational pipelines for biological data analysis. 
+5. Helping to train bioinformatics instructors that can continue to grow in their local communities.
+
+This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions.  
+
+## Program
+
+
+| Day 1   |      |      |
+| -------------- | --------------------------------------- | ----------------------------- |
+| 9:00 - 9:15   | Welcome  | Alejandra Medina |
+| 9:15 - 10:00  | Keynote Lecture I     | Alejandro Reyes     |
+| 10:00 - 10:30 | Talk I: Example of Bioinformatics in Mexico: ROpenSci CONABIO project | Alicia Mastretta Yanes|
+| 10:30 - 11:00 | Coffee break  |      |
+| 11:00 - 12:00 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | Alejandra Medina |
+| 12:00 - 12:30 | Break    |      |
+| 12:30 - 14:00 | Version control with git and Github | Selene Fernández |
+| 14:00 - 15:00 | Lunch break     |      |
+| 15:00 - 15:45 | Open source software projects and collaborative development  | Selene Fernández |
+| 15:45 - 17:00 | Package documentation |  |
+| 17:00 -       | Welcome cocktail |      |
+
+| Day 2   |      |      |
+| -------------- | --------------------------------------- | ----------------------------- |
+|9:00 - 10:00  | Keynote Lecture II | Martin Morgan |
+|10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      |  |
+|10:30 - 11:00 | Coffee break  |      |
+|11:00 - 12:00 | Best practices for writing efficient functions* |  |
+|12:00 - 12:30 | Break    |      |
+|12:30 - 14:00 | Bioconductor: core package, common objects and extending classes* | |
+|14:00 - 15:00 | Lunch break     |      |
+|15:00 - 17:00 | S4 - system for object oriented programing |  |
+|17:00 - 18:00 | Poster session |      |
+
+
+| Day 3   |      |      |
+| -------------- | --------------------------------------- | ----------------------------- |
+|9:00 - 10:00  |Keynote Lecture III | Heather Turner |
+|10:00 - 10:30 |Vignette writing with markdown/BiocStyle |  |
+|10:30 - 10:50 |Coffee break|      |
+|10:50 - 11:30 |Unit testing and R CMD check|  |
+|11:30 - 12:10 |Rcpp (Adding C/C++ code to R packages)|      |
+|12:10 - 12:30 |Break|  |
+|12:30 - 14:00 |Debugging and Parallelization|  |
+|14:00 - 15:00 |Lunch break|      |
+|15:00 - 17:00 |Working on a Collaborative Project|  |
+
+| Day 4   |      |      |
+| -------------- | --------------------------------------- | ----------------------------- |
+| 9:00 - 10:00  | Keynote Lecture IV | Benilton Carvalho |
+| 10:00 - 10:30 | Talk III: Example of Bioinformatics in Mexico && RLadies Community Experience | Teresa Ortíz |
+| 10:30 - 11:00 | Coffee break  |      |
+| 11:00 - 17:00 | Working on a Collaborative Project |  |
+
+
+| Day 5   |      |      |
+| -------------- | --------------------------------------- | ----------------------------- |
+| 9:00 - 10:00  | Working on a Collaborative Project |  |
+| 10:00 - 10:30 | Teams: Concluding remarks about the experience|  |
+| 10:30 - 11:00 | Coffee break  |      |
+| 11:00 - 12:00 | Presentation of the package developed<br>Learned lessons during the project collaborative develop.<br>|  |
+| 12:00 - 13:00 | Evaluate projects and award ceremony |      |
+| 12:00 - 13:00 | Closing remarks and community building    |      |
+
+
+
