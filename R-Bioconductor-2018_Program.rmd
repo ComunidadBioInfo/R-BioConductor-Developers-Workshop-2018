@@ -11,57 +11,61 @@ output:
 #### Comunidad de Desarrolladores de Software en Bioinformática
 
 
-  * Conference webpage: http://www.comunidadbioinfo.org/
-  * Where: Centro de Ciencias Genómicas, Cuernavaca, México
-  * When: Workshop July 30  - August 3, 2018
-  * On twitter: #CDSBMexico
+  * Conference webpage: [comunidadbioinfo.org](http://www.comunidadbioinfo.org/)
+  * Where: [Center for Genomic Sciences](http://www.ccg.unam.mx/en), Cuernavaca, Mexico
+  * When: July 30  - August 3, 2018
+  * On twitter: [#CDSBMexico](https://twitter.com/search?f=tweets&q=%23CDSBMexico)
   * Facebook: @comunidadbioinfo
-  * Public etherpad: https://public.etherpad-mozilla.org/p/20-07-30-CDSB-2018
-  * On youtube: 
+  * Public etherpad: [20-07-30-CDSB-2018](https://public.etherpad-mozilla.org/p/20-07-30-CDSB-2018)
+  * On YouTube: 
 
 
 ## Introduction
 
-In recent years, biology has seen a rise in the use of technologies that enable high-throughput, quantitative, data-rich profiling of cellular states. As a result, the field now faces  computational challenges to analyse such data. The R/Bioconductor project is an open source, open development software platform that provides tools to translate complex datasets into biological knowledge.
+In recent years, biology has seen a rise in the use of technologies that enable high-throughput, quantitative, data-rich profiling of cellular states. As a result, the field now faces computational challenges to analyse such data. The [R](https://cran.r-project.org/)/[Bioconductor](http://bioconductor.org/) project is an open source, open development software platform that provides tools to translate complex data sets into biological knowledge.
 
-The workshop is aimed at students and researchers interested in the analysis of biological data. We encourage applications from experts in diverse disciplines, including but not limited to biologists, bioinformaticians, data scientists, software engineers and programmers. The main goals of the workshop are:
+This workshop is aimed at students and researchers interested in the analysis of biological data. We encourage applications from experts in diverse disciplines, including but not limited to biologists, bioinformaticians, data scientists, software engineers and programmers and R users at large. The main goals of the workshop are:
 
-1. Teaching participants the principles of reproducible data science through the development of R/Bioconductor packages. 
-2. Turning bioinformatic software users into bioinformatic software developers.
-3. Fostering the exchange of expertise and establishing multidisciplinary collaborations.
-4. Creating a community of Latin American scientists committed to the development of software and computational pipelines for biological data analysis. 
-5. Helping to train bioinformatics instructors that can continue to grow in their local communities.
+1. Teach participants the principles of reproducible data science through the development of R/Bioconductor packages. 
+2. Turn bioinformatic software users into bioinformatic software developers.
+3. Foster the exchange of expertise and establish multidisciplinary collaborations.
+4. Create a community of Latin American scientists committed to the development of software and computational pipelines for biological data analysis. 
+5. Help train bioinformatics instructors that can continue to grow in their local communities.
 
-This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions.  
+This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions. To provide a welcoming environment please follow our code of conduct.
+
+## Key dates
+
+<!-- Aqui falta mencionar las fechas limite para registrarse, pedir becas (si va a haber), enviar abstracts, etc -->
 
 ## Program
 
 
-| Day 1   |      |      |
+| **Day 1: July 30, 2018**  |      |      |
 | ------------------ | ---------------------------------- | ----------------------------- |
-| 09:00 - 09:15 | Welcome  | Alejandra Medina |
-| 09:15 - 10:00 | Keynote Lecture I     | Alejandro Reyes     |
-| 10:00 - 10:30 | Talk I: Example of Bioinformatics in Mexico: <br>ROpenSci CONABIO project | Alicia Mastretta Yanes|
+| 09:00 - 09:15 | Welcome  | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
+| 09:15 - 10:00 | Keynote Lecture I     | [Alejandro Reyes](http://alejandroreyes.org/)     |
+| 10:00 - 10:30 | Talk I: Example of Bioinformatics in Mexico: <br>ROpenSci CONABIO project | [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/) |
 | 10:30 - 11:00 | Coffee break  |      |
-| 11:00 - 12:00 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | Alejandra Medina |
+| 11:00 - 12:00 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
 | 12:00 - 12:30 | Break    |      |
-| 12:30 - 14:00 | Version control with git and Github | Selene Fernández |
+| 12:30 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 14:00 - 15:00 | Lunch break     |      |
-| 15:00 - 15:45 | Open source software projects and collaborative development  | Selene Fernández |
+| 15:00 - 15:45 | Open source software projects and collaborative development  | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 15:45 - 17:00 | Package documentation |  |
 | 17:00 -       | Welcome cocktail |      |
-| **Day 2** |      |      |
-|9:00 - 10:00  | Keynote Lecture II | Martin Morgan |
+| **Day 2: July 31, 2018** |      |      |
+|9:00 - 10:00  | Keynote Lecture II | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 |10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      |  |
 |10:30 - 11:00 | Coffee break  |      |
-|11:00 - 12:00 | Best practices for writing efficient functions* |  |
+|11:00 - 12:00 | Best practices for writing efficient functions |  |
 |12:00 - 12:30 | Break    |      |
 |12:30 - 14:00 | Bioconductor: core package, common objects and extending classes* | |
 |14:00 - 15:00 | Lunch break     |      |
-|15:00 - 17:00 | S4 - system for object oriented programing |  |
+|15:00 - 17:00 | S4 - system for object oriented programming |  |
 |17:00 - 18:00 | Poster session |      |
-| **Day 3** |      |      |
-|9:00 - 10:00  |Keynote Lecture III | Heather Turner |
+| **Day 3: August 1, 2018** |      |      |
+|9:00 - 10:00  |Keynote Lecture III | [Heather Turner](http://www.heatherturner.net/) |
 |10:00 - 10:30 |Vignette writing with markdown/BiocStyle |  |
 |10:30 - 10:50 |Coffee break|      |
 |10:50 - 11:30 |Unit testing and R CMD check|  |
@@ -70,12 +74,12 @@ This workshop is part of a long-term project to create a community of developers
 |12:30 - 14:00 |Debugging and Parallelization|  |
 |14:00 - 15:00 |Lunch break|      |
 |15:00 - 17:00 |Working on a Collaborative Project|  |
-| **Day 4** |      |      |
-| 9:00 - 10:00  | Keynote Lecture IV | Benilton Carvalho |
-| 10:00 - 10:30 | Talk III: Example of Bioinformatics in Mexico<br> RLadies Community Experience | Teresa Ortíz |
+| **Day 4: August 2, 2018** |      |      |
+| 9:00 - 10:00  | Keynote Lecture IV | [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)|
+| 10:00 - 10:30 | Talk III: Example of Bioinformatics in Mexico<br> RLadies Community Experience | [Teresa Ortíz](http://www.teresa-ortiz.com/eng) |
 | 10:30 - 11:00 | Coffee break  |      |
 | 11:00 - 17:00 | Working on a Collaborative Project |  |
-| **Day 5** |      |      |
+| **Day 5: August 3, 2018** |      |      |
 | 9:00 - 10:00  | Working on a Collaborative Project |  |
 | 10:00 - 10:30 | Teams: Concluding remarks about the experience|  |
 | 10:30 - 11:00 | Coffee break  |      |
@@ -83,5 +87,58 @@ This workshop is part of a long-term project to create a community of developers
 | 12:00 - 13:00 | Evaluate projects and award ceremony |      |
 | 12:00 - 13:00 | Closing remarks and community building    |      |
 
+## Instructors:
+
+- [Martin Morgan](https://www.roswellpark.org/martin-morgan) (Roswell Park Comprehensive Cancer Center, Buffalo, USA)
+  
+- [Heather Turner](http://www.heatherturner.net/) (Freelance statistician and R programmer, Warwick, UK)
+  
+- [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en) (University of Campinas, Campinas, Brazil)
+  
+- [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
 
 
+## Organizing committee:
+
+- [Heladia Salgado](https://www.linkedin.com/in/heladia-salgado-bb122954/) (Center for Genomic Sciences, Cuernavaca, Mexico)
+  
+- [Leonardo Collado-Torres](http://lcolladotor.github.io) (Lieber Institute for Brain Development, Baltimore, USA)
+  
+- [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) (International Laboratory for Human Genome Research, Juriquilla, Mexico)
+  
+- [Alejandro Reyes](http://alejandroreyes.org/) (Dana-Farber Cancer Institute, Boston, USA)
+  
+- [Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview) (Center for Genomic Sciences, Cuernavaca, Mexico)
+  
+- [Laura Gómez](http://schatzlab.cshl.edu/people/lgomezro/) (Center for Genomic Sciences, Cuernavaca, Mexico)
+
+## Code of conduct
+
+CDSB is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Workshop participants violating these rules may be sanctioned or expelled from the event at the discretion of the workshop organizers.
+
+This code of conduct applies to all participants, including CDSB staff and leadership and applies to all modes of interaction, both in-person and online, including CDSB GitHub project repos and CDSB GitHub, the CDSB discussion forum, Slack channels and Twitter.
+
+CDSB participants agree to:
+
+* Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
+* Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the workshop organizing committee in person.
+* Take care of each other. Alert a member of the workshop organizing committee if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+
+Need Help?
+
+Please speak with Heladia Salgado, Alejandro Reyes, Alejandra Medina-Rivera or Leonardo Collado-Torres if you have any concerns.
+
+If any attendee engages in harassing behavior, the workshop organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the workshop. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the workshop organizing committee with a concise description of your grievance.)
+
+We welcome your feedback on this and every other aspect of CDSB's events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
+
+This code of conduct was adapted from [rOpenSci's unconf 2018 code of conduct](http://unconf18.ropensci.org/coc.html) that is under CC BY-SA 4.0 license. Please check their page for further license and attribution information.
+
+## Sponsors
+
+We would like to acknowledge our workshop sponsors, without whom this workshop would have not been possible.
+
+* [Center for Genomic Sciences, UNAM](http://www.ccg.unam.mx/en)
+* [International Laboratory for Human Genome Research, UNAM](http://liigh.unam.mx/)
+
+<!-- falta agregar aqui informacion de quienes ayudaron a pagar por el taller -->
