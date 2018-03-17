@@ -60,7 +60,7 @@ This workshop is part of a long-term project to create a community of developers
 |10:30 - 11:00 | Coffee break  |      |
 |11:00 - 12:00 | Best practices for writing efficient functions |  |
 |12:00 - 12:30 | Break    |      |
-|12:30 - 14:00 | Bioconductor: core package, common objects and extending classes* | |
+|12:30 - 14:00 | Bioconductor: core package, common objects and extending classes | |
 |14:00 - 15:00 | Lunch break     |      |
 |15:00 - 17:00 | S4 - system for object oriented programming |  |
 |17:00 - 18:00 | Poster session |      |
