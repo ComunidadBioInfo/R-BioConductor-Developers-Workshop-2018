@@ -62,16 +62,16 @@ This workshop is part of a long-term project to create a community of developers
 |12:00 - 12:30 | Break    |      |
 |12:30 - 14:00 | Bioconductor: core package, common objects and extending classes | |
 |14:00 - 15:00 | Lunch break     |      |
-|15:00 - 17:00 | S4 - system for object oriented programming |  |
+|15:00 - 17:00 | S4 - system for object oriented programming | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 |17:00 - 18:00 | Poster session |      |
 | **Day 3: August 1, 2018** |      |      |
 |9:00 - 10:00  |Keynote Lecture III | [Heather Turner](http://www.heatherturner.net/) |
 |10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Heather Turner](http://www.heatherturner.net/) |
 |10:30 - 10:50 |Coffee break|      |
-|10:50 - 11:30 |Unit testing and R CMD check|  |
+|10:50 - 11:30 |Unit testing and R CMD check| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
 |11:30 - 12:10 |Rcpp (Adding C/C++ code to R packages)|      |
 |12:10 - 12:30 |Break|  |
-|12:30 - 14:00 |Debugging and Parallelization|  |
+|12:30 - 14:00 |Debugging and Parallelization| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
 |14:00 - 15:00 |Lunch break|      |
 |15:00 - 17:00 |Working on a Collaborative Project|  |
 | **Day 4: August 2, 2018** |      |      |
