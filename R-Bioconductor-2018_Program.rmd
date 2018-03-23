@@ -52,13 +52,13 @@ This workshop is part of a long-term project to create a community of developers
 | 12:30 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 14:00 - 15:00 | Lunch break     |      |
 | 15:00 - 15:45 | Open source software projects and collaborative development  | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
-| 15:45 - 17:00 | Package documentation | [Heather Turner]  |
+| 15:45 - 17:00 | Package documentation | [Heather Turner](http://www.heatherturner.net/)  |
 | 17:00 -       | Welcome cocktail |      |
 | **Day 2: July 31, 2018** |      |      |
 |9:00 - 10:00  | Keynote Lecture II | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 |10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      |  |
 |10:30 - 11:00 | Coffee break  |      |
-|11:00 - 12:00 | Best practices for writing efficient functions | [Heather Turner] |
+|11:00 - 12:00 | Best practices for writing efficient functions | [Heather Turner](http://www.heatherturner.net/) |
 |12:00 - 12:30 | Break    |      |
 |12:30 - 14:00 | Bioconductor: core package, common objects and extending classes | |
 |14:00 - 15:00 | Lunch break     |      |
@@ -66,7 +66,7 @@ This workshop is part of a long-term project to create a community of developers
 |17:00 - 18:00 | Poster session |      |
 | **Day 3: August 1, 2018** |      |      |
 |9:00 - 10:00  |Keynote Lecture III | [Heather Turner](http://www.heatherturner.net/) |
-|10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Heather Turner] |
+|10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Heather Turner](http://www.heatherturner.net/) |
 |10:30 - 10:50 |Coffee break|      |
 |10:50 - 11:30 |Unit testing and R CMD check|  |
 |11:30 - 12:10 |Rcpp (Adding C/C++ code to R packages)|      |
