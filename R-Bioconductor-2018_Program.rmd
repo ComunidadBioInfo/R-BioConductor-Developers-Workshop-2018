@@ -45,7 +45,7 @@ This workshop is part of a long-term project to create a community of developers
 | ------------------ | ---------------------------------- | ----------------------------- |
 | 09:00 - 09:15 | Welcome  | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
 | 09:15 - 10:00 | Keynote Lecture I     | [Alejandro Reyes](http://alejandroreyes.org/)     |
-| 10:00 - 10:30 | Talk I: Example of Bioinformatics in Mexico: <br>ROpenSci CONABIO project | [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/) |
+| 10:00 - 10:30 | Talk I: Example of Bioinformatics in Mexico: Genomics of Mexican Domesticated Plants | [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/) |
 | 10:30 - 11:00 | Coffee break  |      |
 | 11:00 - 12:00 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
 | 12:00 - 12:30 | Break    |      |
