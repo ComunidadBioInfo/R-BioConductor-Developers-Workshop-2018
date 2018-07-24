@@ -56,7 +56,7 @@ This workshop is part of a long-term project to create a community of developers
 | 17:00 -       | Welcome cocktail |      |
 | **Day 2: July 31, 2018** |      |      |
 |9:00 - 10:00  | Keynote Lecture II | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
-|10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      |  |
+|10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      | [Alejandro Ponce-Mendoza](https://github.com/APonce73) |
 |10:30 - 11:00 | Coffee break  |      |
 |11:00 - 12:00 | Best practices for writing efficient functions | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 |12:00 - 12:30 | Break    |      |
