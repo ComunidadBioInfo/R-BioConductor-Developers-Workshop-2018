@@ -91,8 +91,6 @@ This workshop is part of a long-term project to create a community of developers
 
 - [Martin Morgan](https://www.roswellpark.org/martin-morgan) (Roswell Park Comprehensive Cancer Center, Buffalo, USA)
   
-- [Heather Turner](http://www.heatherturner.net/) (Freelance statistician and R programmer, Warwick, UK)
-  
 - [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en) (University of Campinas, Campinas, Brazil)
   
 - [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
