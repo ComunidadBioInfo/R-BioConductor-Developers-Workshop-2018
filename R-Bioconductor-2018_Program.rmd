@@ -40,11 +40,13 @@ This workshop is part of a long-term project to create a community of developers
 
 ## Program
 
+[Materials](https://github.com/ComunidadBioInfo/rbioc18)
+
 
 | **Day 1: July 30, 2018**  |      |      |
 | ------------------ | ---------------------------------- | ----------------------------- |
 | 09:00 - 10:00 | Inauguration in the main auditorium  |  |
-| 10:00 - 10:30 | Keynote Lecture I     | [Leonardo Collado-Torres](http://lcolladotor.github.io/)     |
+| 10:00 - 10:30 | Keynote Lecture I: From learning to using to teaching to developing R | [Leonardo Collado-Torres](http://lcolladotor.github.io/)     |
 | 10:30 - 11:00 | Talk I: Example of Bioinformatics in Mexico | [Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero) |
 | 11:00 - 11:20 | Coffee break  |      |
 | 11:20 - 12:20 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
@@ -65,7 +67,7 @@ This workshop is part of a long-term project to create a community of developers
 |15:00 - 17:00 | S4 - system for object oriented programming | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 |17:00 - 18:00 | Poster session |      |
 | **Day 3: August 1, 2018** |      |      |
-|9:00 - 10:00  |Keynote Lecture III | TBD |
+|9:00 - 10:00  | Collaborative project organization and introduction | [Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview) |
 |10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
 |10:30 - 10:50 |Coffee break|      |
 |10:50 - 11:30 |Unit testing and R CMD check| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
@@ -139,6 +141,9 @@ This code of conduct was adapted from [rOpenSci's unconf 2018 code of conduct](h
 We would like to acknowledge our workshop sponsors, without whom this workshop would have not been possible.
 
 * [Center for Genomic Sciences, UNAM](http://www.ccg.unam.mx/en)
+* [Undergraduate program on Genomic Sciences, UNAM](http://www.lcg.unam.mx/)
+* [SoIBio](http://www.soibio.org/)
 * [International Laboratory for Human Genome Research, UNAM](http://liigh.unam.mx/)
+* [R Consortium](https://www.r-consortium.org/)
+* [Winter Genomics](http://wintergenomics.com/)
 
-<!-- falta agregar aqui informacion de quienes ayudaron a pagar por el taller -->
