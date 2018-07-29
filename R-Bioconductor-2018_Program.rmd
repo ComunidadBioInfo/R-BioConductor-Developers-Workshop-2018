@@ -43,33 +43,33 @@ This workshop is part of a long-term project to create a community of developers
 
 | **Day 1: July 30, 2018**  |      |      |
 | ------------------ | ---------------------------------- | ----------------------------- |
-| 09:00 - 09:15 | Welcome  | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
-| 09:15 - 10:00 | Keynote Lecture I     | [Leonardo Collado-Torres](http://lcolladotor.github.io/) and [Alejandro Reyes](http://alejandroreyes.org/)     |
-| 10:00 - 10:30 | Talk I: Example of Bioinformatics in Mexico: <br>ROpenSci CONABIO project | [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/) |
-| 10:30 - 11:00 | Coffee break  |      |
-| 11:00 - 12:00 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
-| 12:00 - 12:30 | Break    |      |
-| 12:30 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
+| 09:00 - 10:00 | Inauguration in the main auditorium  |  |
+| 10:00 - 10:30 | Keynote Lecture I     | [Leonardo Collado-Torres](http://lcolladotor.github.io/)     |
+| 10:30 - 11:00 | Talk I: Example of Bioinformatics in Mexico | [Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero) |
+| 11:00 - 11:20 | Coffee break  |      |
+| 11:20 - 12:20 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
+| 12:20 - 12:40 | Break    |      |
+| 12:40 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 14:00 - 15:00 | Lunch break     |      |
 | 15:00 - 15:45 | Open source software projects and collaborative development  | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
-| 15:45 - 17:00 | Package documentation | [Heather Turner](http://www.heatherturner.net/)  |
+| 15:45 - 17:00 | Package documentation | [Alejandro Reyes](http://alejandroreyes.org/)  |
 | 17:00 -       | Welcome cocktail |      |
 | **Day 2: July 31, 2018** |      |      |
 |9:00 - 10:00  | Keynote Lecture II | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
-|10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico      |  |
+|10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico: Using R-Shiny in Agrobiodiversity      | [Alejandro Ponce-Mendoza](https://github.com/APonce73) |
 |10:30 - 11:00 | Coffee break  |      |
-|11:00 - 12:00 | Best practices for writing efficient functions | [Heather Turner](http://www.heatherturner.net/) |
+|11:00 - 12:00 | Best practices for writing efficient functions | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 |12:00 - 12:30 | Break    |      |
-|12:30 - 14:00 | Bioconductor: core package, common objects and extending classes | |
+|12:30 - 14:00 | Bioconductor: core package, common objects and extending classes |[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
 |14:00 - 15:00 | Lunch break     |      |
 |15:00 - 17:00 | S4 - system for object oriented programming | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 |17:00 - 18:00 | Poster session |      |
 | **Day 3: August 1, 2018** |      |      |
-|9:00 - 10:00  |Keynote Lecture III | [Heather Turner](http://www.heatherturner.net/) |
-|10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Heather Turner](http://www.heatherturner.net/) |
+|9:00 - 10:00  |Keynote Lecture III | TBD |
+|10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
 |10:30 - 10:50 |Coffee break|      |
 |10:50 - 11:30 |Unit testing and R CMD check| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
-|11:30 - 12:10 |Rcpp (Adding C/C++ code to R packages)|      |
+|11:30 - 12:10 |Rcpp (Adding C/C++ code to R packages)| [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
 |12:10 - 12:30 |Break|  |
 |12:30 - 14:00 |Debugging and Parallelization| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
 |14:00 - 15:00 |Lunch break|      |
@@ -91,8 +91,6 @@ This workshop is part of a long-term project to create a community of developers
 
 - [Martin Morgan](https://www.roswellpark.org/martin-morgan) (Roswell Park Comprehensive Cancer Center, Buffalo, USA)
   
-- [Heather Turner](http://www.heatherturner.net/) (Freelance statistician and R programmer, Warwick, UK)
-  
 - [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en) (University of Campinas, Campinas, Brazil)
   
 - [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)
@@ -107,6 +105,8 @@ This workshop is part of a long-term project to create a community of developers
 - [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) (International Laboratory for Human Genome Research, Juriquilla, Mexico)
   
 - [Alejandro Reyes](http://alejandroreyes.org/) (Dana-Farber Cancer Institute, Boston, USA)
+
+- [Delfino García](https://) (Center for Genomic Sciences, Cuernavaca, Mexico)
   
 - [Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview) (Center for Genomic Sciences, Cuernavaca, Mexico)
   
