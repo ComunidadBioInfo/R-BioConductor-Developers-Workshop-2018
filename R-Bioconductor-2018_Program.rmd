@@ -54,40 +54,39 @@ This workshop is part of a long-term project to create a community of developers
 | 12:40 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 14:00 - 15:00 | Lunch break     |      |
 | 15:00 - 15:45 | Open source software projects and collaborative development  | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
-| 15:45 - 17:00 | Package documentation | [Alejandro Reyes](http://alejandroreyes.org/)  |
-| 17:00 -       | Welcome cocktail |      |
+| 15:45 - 17:30 | Package documentation | [Alejandro Reyes](http://alejandroreyes.org/)  |
+| 17:30 -       | Welcome cocktail |      |
 | **Day 2: July 31, 2018** |      |      |
 |9:00 - 10:00  | Keynote Lecture II | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
-|10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico: Using R-Shiny in Agrobiodiversity      | [Alejandro Ponce-Mendoza](https://github.com/APonce73) |
-|10:30 - 11:00 | Coffee break  |      |
-|11:00 - 12:00 | Best practices for writing efficient functions | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
-|12:00 - 12:30 | Break    |      |
-|12:30 - 14:00 | Bioconductor: core package, common objects and extending classes |[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
+|10:00 - 11:00 | Best practices for writing efficient functions | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
+|11:00 - 11:30 | Coffee break  |      |
+|11:30 - 12:00 | Talk II: Example of Bioinformatics in Mexico: Using R-Shiny in Agrobiodiversity      | [Alejandro Ponce-Mendoza](https://github.com/APonce73)  |
+|12:00 - 14:00 | Bioconductor: core package, common objects and extending classes |[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
 |14:00 - 15:00 | Lunch break     |      |
-|15:00 - 17:00 | S4 - system for object oriented programming | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
-|17:00 - 18:00 | Poster session |      |
+|15:00 - 17:30 | S4 - system for object oriented programming | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
+|17:30 - 18:30 | Poster session |      |
 | **Day 3: August 1, 2018** |      |      |
-|9:00 - 10:00  | Collaborative project organization and introduction | [Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview) |
-|10:00 - 10:30 |Vignette writing with markdown/BiocStyle | [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
-|10:30 - 10:50 |Coffee break|      |
-|10:50 - 11:30 |Unit testing and R CMD check| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
-|11:30 - 12:10 |Rcpp (Adding C/C++ code to R packages)| [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
-|12:10 - 12:30 |Break|  |
+|9:00 - 9:50  | Collaborative project organization and introduction | [Daniela Ledezma-Tejeida](https://loop.frontiersin.org/people/416212/overview) |
+|9:50 - 10:20 |Vignette writing with markdown/BiocStyle | [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
+|10:20 - 11:00 |Unit testing and R CMD check| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
+|11:00 - 11:30 |Event Photo|      |
+|11:30 - 12:00 |Coffee break|      |
+|12:00 - 12:30 |Rcpp (Adding C/C++ code to R packages)| [Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
 |12:30 - 14:00 |Debugging and Parallelization| [Martin Morgan](https://www.roswellpark.org/martin-morgan)  |
-|14:00 - 15:00 |Lunch break|      |
-|15:00 - 17:00 |Working on a Collaborative Project|  |
+|14:00 - 15:30 |Lunch break|      |
+|15:30 - 17:30 |Working on a Collaborative Project|  |
 | **Day 4: August 2, 2018** |      |      |
 | 9:00 - 10:00  | Keynote Lecture IV | [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)|
-| 10:00 - 10:30 | Talk III: Example of Bioinformatics in Mexico<br> RLadies Community Experience | [Teresa Ortíz](http://www.teresa-ortiz.com/eng) |
-| 10:30 - 11:00 | Coffee break  |      |
-| 11:00 - 17:00 | Working on a Collaborative Project |  |
+| 10:00 - 11:00 | Talk III: Example of Bioinformatics in Mexico<br> RLadies Community Experience | [Teresa Ortíz](http://www.teresa-ortiz.com/eng) |
+| 11:00 - 11:30 | Coffee break  |      |
+| 11:30 - 17:30 | Working on a Collaborative Project |  |
 | **Day 5: August 3, 2018** |      |      |
 | 9:00 - 10:00  | Working on a Collaborative Project |  |
-| 10:00 - 10:30 | Teams: Concluding remarks about the experience|  |
-| 10:30 - 11:00 | Coffee break  |      |
-| 11:00 - 12:00 | Presentation of the package developed<br>Learned lessons during the project collaborative develop.<br>|  |
-| 12:00 - 13:00 | Evaluate projects and award ceremony |      |
-| 12:00 - 13:00 | Closing remarks and community building    |      |
+| 10:00 - 11:00 | Teams: Concluding remarks about the experience|  |
+| 11:00 - 11:30 | Coffee break  |      |
+| 11:30 - 13:00 | Presentation of the package developed<br>Learned lessons during the project collaborative develop.<br>|  |
+| 13:00 - 14:00 | Evaluate projects and award ceremony |      |
+| 14:00 - 15:30 | Closing remarks and community building    |      |
 
 ## Instructors:
 
