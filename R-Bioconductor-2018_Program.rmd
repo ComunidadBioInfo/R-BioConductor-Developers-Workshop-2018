@@ -49,7 +49,7 @@ This workshop is part of a long-term project to create a community of developers
 | 10:00 - 10:30 | Keynote Lecture I: From learning to using to teaching to developing R | [Leonardo Collado-Torres](http://lcolladotor.github.io/)     |
 | 10:30 - 11:00 | Talk I: Example of Bioinformatics in Mexico | [Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero) |
 | 11:00 - 11:20 | Coffee break  |      |
-| 11:20 - 12:20 | Programming with R <br> - Loops<br> - Functions<br> - Creating a package | [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/) |
+| 11:20 - 12:20 | Creating a package | [Alejandro Reyes](http://alejandroreyes.org/) |
 | 12:20 - 12:40 | Break    |      |
 | 12:40 - 14:00 | Version control with git and GitHub | [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/) |
 | 14:00 - 15:00 | Lunch break     |      |
