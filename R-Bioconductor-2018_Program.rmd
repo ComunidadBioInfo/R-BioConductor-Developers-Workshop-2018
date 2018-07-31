@@ -60,10 +60,9 @@ This workshop is part of a long-term project to create a community of developers
 | 9:00 - 10:00  | Keynote Lecture II | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 | 10:00 - 10:30 | Talk II: Example of Bioinformatics in Mexico: Using R-Shiny in Agrobiodiversity      | [Alejandro Ponce-Mendoza](https://github.com/APonce73) |
 | 10:30 - 11:00 | Coffee break  |      |
-| 11:00 - 12:00 | Best practices for writing efficient functions | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
-| 12:00 - 12:30 | Break    |      |
-| 12:30 - 14:00 | Bioconductor: core package, common objects and extending classes |[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
-| 14:00 - 15:30 | Lunch break     |      |
+| 11:00 - 12:15 | Best practices for writing efficient functions | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
+| 12:15 - 13:45 | Bioconductor: core package, common objects and extending classes |[Benilton de Sá Carvalho](http://www.somos.unicamp.br/professores/view/4722) |
+| 13:45 - 15:30 | Lunch break     |      |
 | 15:30 - 17:30 | S4 - system for object oriented programming | [Martin Morgan](https://www.roswellpark.org/martin-morgan) |
 | 17:30 - 18:30 | Poster session |      |
 | **Day 3: August 1, 2018** |      |      |
