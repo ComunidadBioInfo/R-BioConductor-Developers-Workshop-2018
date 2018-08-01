@@ -77,7 +77,7 @@ This workshop is part of a long-term project to create a community of developers
 | 15:30 - 17:30 |Working on a Collaborative Project|  |
 | **Day 4: August 2, 2018** |      |      |
 | 9:00 - 10:00  | Keynote Lecture IV | [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)|
-| 10:00 - 10:30 | Talk III: Example of Bioinformatics in Mexico<br> RLadies Community Experience | [Teresa Ortíz](http://www.teresa-ortiz.com/eng) |
+| 10:00 - 10:30 | Talk III: RLadies Community Experience | [Teresa Ortíz](http://www.teresa-ortiz.com/eng) |
 | 10:30 - 11:00 | Coffee break  |      |
 | 11:00 - 14:00 | Working on a Collaborative Project |  |
 | 14:00 - 15:30 |Lunch break|      |
