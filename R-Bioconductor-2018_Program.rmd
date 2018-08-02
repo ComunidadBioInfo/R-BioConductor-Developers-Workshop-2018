@@ -83,12 +83,11 @@ This workshop is part of a long-term project to create a community of developers
 | 14:00 - 15:30 |Lunch break|      |
 | 15:30 - 17:30 | Working on a Collaborative Project |  |
 | **Day 5: August 3, 2018** |      |      |
-| 9:00 - 10:00  | Working on a Collaborative Project |  |
-| 10:00 - 10:30 | Teams: Concluding remarks about the experience|  |
+| 9:00 - 10:30  | Working on a Collaborative Project |  |
 | 10:30 - 11:00 | Coffee break  |      |
-| 11:00 - 12:00 | Presentation of the package developed<br>Learned lessons during the project collaborative develop.<br>|  |
-| 12:00 - 13:00 | Evaluate projects and award ceremony |      |
-| 12:00 - 13:00 | Closing remarks and community building    |      |
+| 11:00 - 11:30 | Working on a Collaborative Project |  |
+| 11:30 - 12:30 | Presentations of collaborative projects |      |
+| 12:30 - 13:00 | Closing remarks and community building |      |
 
 ## Instructors:
 
