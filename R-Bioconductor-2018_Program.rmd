@@ -83,7 +83,8 @@ This workshop is part of a long-term project to create a community of developers
 | 14:00 - 15:30 |Lunch break|      |
 | 15:30 - 17:30 | Working on a Collaborative Project |  |
 | **Day 5: August 3, 2018** |      |      |
-| 9:00 - 10:30  | Working on a Collaborative Project |  |
+| 9:00 - 10:00  | Working on a Collaborative Project and recovery from La Palapa |
+| 10:00 - 10:30  | Working on a Collaborative Project |  |
 | 10:30 - 11:00 | Coffee break  |      |
 | 11:00 - 11:30 | Working on a Collaborative Project |  |
 | 11:30 - 12:30 | Presentations of collaborative projects |      |
